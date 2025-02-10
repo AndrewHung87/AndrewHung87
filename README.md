@@ -8,7 +8,7 @@
 - **Programming:** Python, C++, JavaScript, Java  
 - **Frameworks:** Flask, React, Firebase  
 - **AI/ML:** Scikit-learn, K-Means, Naïve Bayes  
-- **Cloud:** Google Cloud, Firebase  
+- **Cloud:** Google Cloud, Firebase
 
 ## 📌 Projects:
 🚀 **[SMSGuard](https://github.com/AndrewHung87/smsGuard)** – AI-based spam detection system.  
