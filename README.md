@@ -13,7 +13,7 @@
 ## 📌 Projects:
 🚀 **[SMSGuard](https://github.com/AndrewHung87/smsGuard)** – AI-based spam detection system.  
 🎮 **[GamePath](https://github.com/GasperPls/GamePath)**(In Progress) – Social media platform for gamers.  
-🎬 **[ReelReview](https://github.com/jddMaz/ReelReview)** – Movie review web app.  
+🎬 **[ReelReview](https://github.com/jddMaz/ReelReview)** – Movie review web app. 
 
 ## 📫 Connect with me:
 📧 Email: [shengminhung@protonmail.ch](mailto:shengminhung@protonmail.ch)  
