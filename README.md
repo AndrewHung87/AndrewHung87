@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shengmin Hung (Andrew)  
 
-🎓 **CS Student @ California State University** (Graduating May 2025)  
-💻 **Aspiring Software Engineer | AI/ML | Cloud Computing | Data Science**  
+🎓 **CS Student @ California State University** (Class of 2025)  
+💻 **Aspiring Software Engineer | AI/ML | Data Engineer | Data Science**  
 🚀 **Passionate about building full-stack applications and working with AI models, Cloud and Data.**  
 
 ## 🔧 Tech Stack:
