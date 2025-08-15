@@ -2,11 +2,12 @@
 
 🎓 **CS Student @ California State University** (Class of 2025)  
 💻 **Aspiring Software Engineer | AI/ML | Data Engineer | Data Science**  
-🚀 **Passionate about building full-stack applications and working with AI models, Cloud and Data.**  
+🚀 **Passionate about building full-stack applications and working with ML models, Cloud, and Data.**  
 
 ## 🔧 Tech Stack:
 - **Programming:** Python, C++, JavaScript, Java  
-- **Frameworks:** Flask, React, Firebase  
+- **Frameworks:** Flask, React, Firebase
+- **Data:** SQL, MySQL, RDBRE, BigQuery, Tableau
 - **AI/ML:** Scikit-learn, K-Means, Naïve Bayes  
 - **Cloud:** Google Cloud Platform, Firebase
 
