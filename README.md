@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shengmin Hung (Andrew)  
 
-🎓 **CS Student @ California State University** (Class of 2025)  
+🎓 **CS Grad | Data Analyst | Python · SQL · ETL Pipelines · Machine Learning**
 💻 **Aspiring Software Engineer | AI/ML | Data Engineer | Data Science**  
 🚀 **Passionate about building full-stack applications and working with ML models, Cloud, and Data.**  
 
