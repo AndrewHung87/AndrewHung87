@@ -12,10 +12,10 @@
 | Category | Tools |
 |---|---|
 | **Languages** | Python · SQL · JavaScript · Java |
-| **Data & Analytics** | MySQL · BigQuery · Pandas · NumPy · Tableau |
-| **ML / AI** | Scikit-learn · Naïve Bayes · K-Means Clustering |
+| **Data & Analytics** | MySQL · PostgreSQL · BigQuery · Pandas · NumPy · Tableau |
+| **ML / AI** | Scikit-learn · TF-IDF · Naïve Bayes · K-Means Clustering |
 | **Cloud & Infra** | Google Cloud Platform (GCP) · Firebase |
-| **Frameworks** | Flask · React |
+| **Frameworks / Viz** | Flask · React · Streamlit · Plotly |
 
 ---
 
@@ -24,8 +24,8 @@
 📊 **[Startup Ecosystem Dashboard](#)** *(Tableau · Python · GCP)*
 Analyzed 1,800+ Crunchbase startup records to surface market trends, hiring signals, and funding patterns. 3-page interactive Tableau dashboard covering Market Overview, Hiring Analysis, and Opportunity Finder.
 
-🛡️ **[SMSGuard](https://github.com/AndrewHung87/smsGuard)** *(Python · Flask · Scikit-learn)*
-AI-powered spam detection system using NLP & Naïve Bayes classification. Built end-to-end from data preprocessing to model deployment.
+🛡️ **[SMSGuard](https://github.com/AndrewHung87/smsGuard)** *(Python · Scikit-learn · PostgreSQL · BigQuery · Streamlit)*
+End-to-end ML pipeline for SMS spam detection. ETL from multiple CSV sources → PostgreSQL & BigQuery → TF-IDF + Naïve Bayes classifier (97% accuracy, 94% precision on 10K+ messages) → interactive Streamlit dashboard with live predictor, ROC curve & confusion matrix.
 
 🎬 **[ReelReview](https://github.com/jddMaz/ReelReview)** *(React · Firebase)*
 Full-stack movie review web app with user authentication, ratings system, and dynamic content rendering.
