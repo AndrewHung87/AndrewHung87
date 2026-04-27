@@ -5,8 +5,6 @@
 
 🔍 **Actively seeking entry-level Data Analyst / BI Analyst roles**
 
-🛂 **F-1 OPT · Authorized to work through July 2026**
-
 ---
 
 ## 🔧 Tech Stack
