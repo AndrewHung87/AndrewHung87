@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Andrew (Shengmin Hung)
 
 🎓 **CS Grad | Data Analyst**
-💡 I build end-to-end data pipelines and dashboards that turn raw data into
-   actionable business insights.
+💡 I build end-to-end data pipelines and dashboards that turn raw data into actionable business insights.
+
 🔍 **Actively seeking entry-level Data Analyst / BI Analyst roles**
+
 🛂 **F-1 OPT · Authorized to work through July 2026**
 
 ---
