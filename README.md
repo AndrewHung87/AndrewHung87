@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Shengmin Hung (Andrew)
+# 👋 Hi, I'm Andrew (Shengmin Hung)
 
-🎓 **CS Grad | Data Analyst | Python · SQL · Tableau · GCP**
-💡 Passionate about turning raw data into actionable business insights — from ETL pipelines to interactive dashboards.
-🔍 **Actively seeking entry-level Data Analyst opportunities**
-🛂 **OPT available through July 2026**
+🎓 **CS Grad | Data Analyst**
+💡 I build end-to-end data pipelines and dashboards that turn raw data into
+   actionable business insights.
+🔍 **Actively seeking entry-level Data Analyst / BI Analyst roles**
+🛂 **F-1 OPT · Authorized to work through July 2026**
 
 ---
 
@@ -11,28 +12,33 @@
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python · SQL · JavaScript · Java |
-| **Data & Analytics** | MySQL · PostgreSQL · BigQuery · Pandas · NumPy · Tableau |
-| **ML / AI** | Scikit-learn · TF-IDF · Naïve Bayes · K-Means Clustering |
-| **Cloud & Infra** | Google Cloud Platform (GCP) · Firebase |
-| **Frameworks / Viz** | Flask · React · Streamlit · Plotly |
+| **Analysis & Visualization** | SQL · Python (pandas, NumPy) · Tableau · Power BI · Excel |
+| **Data Engineering** | ETL Pipelines · PostgreSQL · BigQuery · SQLAlchemy · Apache Spark |
+| **ML & NLP** | Scikit-learn · TF-IDF · Naïve Bayes |
+| **Cloud & Tools** | GCP · Streamlit · n8n · Git |
 
 ---
 
 ## 📌 Featured Projects
 
-📊 **[Startup Ecosystem Dashboard](#)** *(Tableau · Python · GCP)*
-Analyzed 1,800+ Crunchbase startup records to surface market trends, hiring signals, and funding patterns. 3-page interactive Tableau dashboard covering Market Overview, Hiring Analysis, and Opportunity Finder.
+📊 **[Startup Funding Analysis](https://github.com/AndrewHung87/startup_funding_analysis)**
+*(Python · pandas · Tableau Public)*
+End-to-end EDA on 1,576 Crunchbase startup records. Python data cleaning pipeline
+→ trend analysis across industries and geographies → 4-view interactive Tableau
+Public dashboard. Key findings: 79% YoY increase in total funding, 139% growth
+in median deal size from 2024 to 2025.
+🔗 [View Live Dashboard](https://public.tableau.com/app/profile/shengmin.hung/viz/StartupFundingAnalysis_17771540311390/StartupFundingAnalysis20242025)
 
-🛡️ **[SMSGuard](https://github.com/AndrewHung87/smsGuard)** *(Python · Scikit-learn · PostgreSQL · BigQuery · Streamlit)*
-End-to-end ML pipeline for SMS spam detection. ETL from multiple CSV sources → PostgreSQL & BigQuery → TF-IDF + Naïve Bayes classifier (97% accuracy, 94% precision on 10K+ messages) → interactive Streamlit dashboard with live predictor, ROC curve & confusion matrix.
-
-🎬 **[ReelReview](https://github.com/jddMaz/ReelReview)** *(React · Firebase)*
-Full-stack movie review web app with user authentication, ratings system, and dynamic content rendering.
+🛡️ **[SMSGuard](https://github.com/AndrewHung87/smsGuard)**
+*(Python · PostgreSQL · BigQuery · Scikit-learn · Streamlit · SQLAlchemy)*
+End-to-end NLP spam detection pipeline. Dual-target ETL (PostgreSQL + BigQuery)
+with validation, deduplication, and upsert logic → TF-IDF + Naïve Bayes
+classifier (97% accuracy, 94% precision on 10K+ messages) → interactive
+Streamlit dashboard with live predictor, ROC curve, and confusion matrix.
 
 ---
 
 ## 📫 Let's Connect
 
-📧 [shengminhung@protonmail.ch](mailto:shengminhung@protonmail.ch)
-🔗 [LinkedIn](https://linkedin.com/in/shengminhung) · [GitHub](https://github.com/AndrewHung87)
+📧 shengminhung@protonmail.ch
+🔗 [LinkedIn](https://linkedin.com/in/shengminhung)
