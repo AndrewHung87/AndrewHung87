@@ -2,7 +2,7 @@
 
 🎓 Computer Science graduate focused on data analysis, BI reporting, and SQL-driven analytics.  
 💡 I build data pipelines, dashboards, and analysis workflows that turn raw datasets into practical business insights.
-
+ 
 🔍 Seeking entry-level Data Analyst, and BI Analyst roles.
 
 ---
